@@ -4,21 +4,21 @@ class Solution {
         int start = 0;
         int next = 1;
         while (next < nums.length) {
-            // if(nums[next] != nums[start]){
-            //     sum++;
-            //     start++;
-            //     nums[start] = nums[next]; 
-            // }
-            // next++;
-
-            if (nums[next] == nums[start]) {
-                next++;
-                continue;
+            if(nums[next] != nums[start]){
+                sum++;
+                start++;
+                nums[start] = nums[next]; 
             }
-            sum++;
-            start++;
-            nums[start] = nums[next];
             next++;
+
+            // if (nums[next] == nums[start]) {
+            //     next++;
+            //     continue;
+            // }
+            // sum++;
+            // start++;
+            // nums[start] = nums[next];
+            // next++;
         }
         return sum;
     }
