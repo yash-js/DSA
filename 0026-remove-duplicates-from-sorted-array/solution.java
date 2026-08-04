@@ -4,6 +4,13 @@ class Solution {
         int start = 0;
         int next = 1;
         while (next < nums.length) {
+            // if(nums[next] != nums[start]){
+            //     sum++;
+            //     start++;
+            //     nums[start] = nums[next]; 
+            // }
+            // next++;
+
             if (nums[next] == nums[start]) {
                 next++;
                 continue;
@@ -11,6 +18,7 @@ class Solution {
             sum++;
             start++;
             nums[start] = nums[next];
+            next++;
         }
         return sum;
     }
