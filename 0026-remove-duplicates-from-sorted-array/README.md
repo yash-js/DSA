@@ -7,7 +7,7 @@
 | **Language** | Java |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submitted** | 2026-08-04T20:14:04.000Z |
+| **Submitted** | 2026-08-04T20:18:59.000Z |
 | **Link** | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 ## Problem
