@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array, Matrix |
 | **Language** | Java |
-| **Runtime** | 1 |
-| **Memory** | 46536000 |
-| **Submitted** | 2026-08-04T16:53:00.000Z |
+| **Runtime** | N/A |
+| **Memory** | 46644000 |
+| **Submitted** | 2026-08-04T17:01:34.000Z |
 | **Link** | [https://leetcode.com/problems/matrix-diagonal-sum/](https://leetcode.com/problems/matrix-diagonal-sum/) |
 
 ## Problem
