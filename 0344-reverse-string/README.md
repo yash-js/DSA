@@ -1,0 +1,41 @@
+# 344. Reverse String
+
+| | |
+|---|---|
+| **Difficulty** | Easy |
+| **Tags** | Two Pointers, String |
+| **Language** | Java |
+| **Runtime** | N/A |
+| **Memory** | N/A |
+| **Submitted** | 2026-08-05T19:33:10.000Z |
+| **Link** | [https://leetcode.com/problems/reverse-string/](https://leetcode.com/problems/reverse-string/) |
+
+## Problem
+
+Write a function that reverses a string. The input string is given as an array of characters `s`.
+
+You must do this by modifying the input array in-place with `O(1)` extra memory.
+
+ 
+
+**Example 1:**
+
+**Input:** s = ["h","e","l","l","o"]
+**Output:** ["o","l","l","e","h"]
+
+**Example 2:**
+
+**Input:** s = ["H","a","n","n","a","h"]
+**Output:** ["h","a","n","n","a","H"]
+
+ 
+
+**Constraints:**
+
+	- `1 5`
+
+	- `s[i]` is a printable ascii character.
+
+## Solution
+
+See [`solution.java`](./solution.java).
