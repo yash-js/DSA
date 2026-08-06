@@ -7,7 +7,7 @@
 | **Language** | Java |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submitted** | 2026-08-06T19:40:44.000Z |
+| **Submitted** | 2026-08-06T19:45:08.000Z |
 | **Link** | [https://leetcode.com/problems/find-numbers-with-even-number-of-digits/](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
 
 ## Problem
