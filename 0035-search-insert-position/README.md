@@ -7,7 +7,7 @@
 | **Language** | Java |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submitted** | 2026-08-07T19:01:54.000Z |
+| **Submitted** | 2026-08-07T19:02:43.000Z |
 | **Link** | [https://leetcode.com/problems/search-insert-position/](https://leetcode.com/problems/search-insert-position/) |
 
 ## Problem
