@@ -7,7 +7,7 @@
 | **Language** | Java |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submitted** | 2026-08-08T18:27:41.000Z |
+| **Submitted** | 2026-08-08T18:33:18.000Z |
 | **Link** | [https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) |
 
 ## Problem
