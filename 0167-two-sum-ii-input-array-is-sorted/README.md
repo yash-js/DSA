@@ -6,8 +6,8 @@
 | **Tags** | Array, Two Pointers, Binary Search |
 | **Language** | Java |
 | **Runtime** | 2 |
-| **Memory** | 48252000 |
-| **Submitted** | 2026-08-04T18:28:00.000Z |
+| **Memory** | 48464000 |
+| **Submitted** | 2026-08-12T18:58:40.000Z |
 | **Link** | [https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 
 ## Problem
