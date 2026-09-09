@@ -7,7 +7,7 @@
 | **Language** | Java |
 | **Runtime** | N/A |
 | **Memory** | N/A |
-| **Submitted** | 2026-09-09T04:25:34.000Z |
+| **Submitted** | 2026-09-09T04:35:13.000Z |
 | **Link** | [https://leetcode.com/problems/binary-search/](https://leetcode.com/problems/binary-search/) |
 
 ## Problem
