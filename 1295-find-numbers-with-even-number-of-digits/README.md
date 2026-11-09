@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array, Math |
 | **Language** | Java |
-| **Runtime** | N/A |
-| **Memory** | N/A |
-| **Submitted** | 2026-08-06T19:45:08.000Z |
+| **Runtime** | 1 |
+| **Memory** | 42464000 |
+| **Submitted** | 2024-08-12T02:30:36.000Z |
 | **Link** | [https://leetcode.com/problems/find-numbers-with-even-number-of-digits/](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |
 
 ## Problem
