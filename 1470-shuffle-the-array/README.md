@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array |
 | **Language** | Java |
-| **Runtime** | 0 ms |
-| **Memory** | 46628000 |
-| **Submitted** | 2026-08-02T19:41:01.000Z |
+| **Runtime** | N/A |
+| **Memory** | N/A |
+| **Submitted** | 2026-11-10T12:35:35.000Z |
 | **Link** | [https://leetcode.com/problems/shuffle-the-array/](https://leetcode.com/problems/shuffle-the-array/) |
 
 ## Problem
