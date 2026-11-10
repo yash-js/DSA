@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array, Simulation |
 | **Language** | Java |
-| **Runtime** | 1 |
-| **Memory** | 46628000 |
-| **Submitted** | 2026-08-02T11:45:49.000Z |
+| **Runtime** | N/A |
+| **Memory** | N/A |
+| **Submitted** | 2026-11-10T09:33:45.000Z |
 | **Link** | [https://leetcode.com/problems/concatenation-of-array/](https://leetcode.com/problems/concatenation-of-array/) |
 
 ## Problem
