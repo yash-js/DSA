@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array, Prefix Sum |
 | **Language** | Java |
-| **Runtime** | 0 ms |
-| **Memory** | 43920000 |
-| **Submitted** | 2026-08-02T12:59:36.000Z |
+| **Runtime** | N/A |
+| **Memory** | N/A |
+| **Submitted** | 2026-11-10T09:38:44.000Z |
 | **Link** | [https://leetcode.com/problems/running-sum-of-1d-array/](https://leetcode.com/problems/running-sum-of-1d-array/) |
 
 ## Problem
