@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array, Simulation |
 | **Language** | Java |
-| **Runtime** | 1 |
-| **Memory** | 47196000 |
-| **Submitted** | 2026-08-02T11:31:11.000Z |
+| **Runtime** | N/A |
+| **Memory** | N/A |
+| **Submitted** | 2026-11-10T06:46:04.000Z |
 | **Link** | [https://leetcode.com/problems/build-array-from-permutation/](https://leetcode.com/problems/build-array-from-permutation/) |
 
 ## Problem
