@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | Array, Matrix |
 | **Language** | Java |
-| **Runtime** | 0 ms |
-| **Memory** | 42520000 |
-| **Submitted** | 2024-08-13T01:59:02.000Z |
+| **Runtime** | N/A |
+| **Memory** | N/A |
+| **Submitted** | 2026-11-10T09:43:50.000Z |
 | **Link** | [https://leetcode.com/problems/richest-customer-wealth/](https://leetcode.com/problems/richest-customer-wealth/) |
 
 ## Problem
